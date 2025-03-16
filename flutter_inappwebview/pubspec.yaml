@@ -25,7 +25,7 @@ dependencies:
   flutter_inappwebview_ios:
     git:
       url: git@github.com:Crazy-MT/flutter_inappwebview.git
-      ref: v6.1.5
+      ref: v6.1.6
       path: flutter_inappwebview_ios
   flutter_inappwebview_macos: ^1.1.2
   flutter_inappwebview_web: ^1.1.2
